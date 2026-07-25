@@ -23,6 +23,7 @@ const jobTitles = {
     "Blockchain Developer",
     "Game Developer",
     "Embedded Systems Engineer",
+    "Cloud AI Architect",
   ],
   Design: [
     "UX/UI Designer",
